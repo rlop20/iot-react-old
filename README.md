@@ -3,6 +3,7 @@
 - Open VS code and open the folder
 - run
 npm install
+- then 
 npm start 
 
 
